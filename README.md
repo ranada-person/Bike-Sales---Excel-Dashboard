@@ -1,6 +1,5 @@
 # Bike-Sales---Excel-Dashboard
 Dashboard created using Microsoft Excel
 
+Dashboard allows user to visualize data with optional filters to see different aspects of the data.
 
-Dashboard has filtering options to view different aspects of data
-Uses Pivot Tables to create visualizations 
